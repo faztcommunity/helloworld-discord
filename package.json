@@ -1,0 +1,12 @@
+{
+  "name": "bot",
+  "private": "false",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "register": "node ping.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.7.1"
+  }
+}

@@ -1,0 +1,5 @@
+{
+  // crea tu app en https://discord.com/developers/applications/
+  "token": "token id ",
+  "client": "client id"
+}
